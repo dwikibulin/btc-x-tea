@@ -1,0 +1,2 @@
+# btc-x-tea
+testnet
